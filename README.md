@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+**Name:** Keerthana Saravanan
 
-### Register Number:
+**Register Number:** 212223240070
 
 ```python
 class CNNClassifier(nn.Module):
